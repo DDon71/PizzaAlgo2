@@ -1,2 +1,5 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
+3. Wait for driver to arrive
+4. Pay and tip
+5. Enjoy
